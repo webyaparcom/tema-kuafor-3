@@ -1,0 +1,57 @@
+{
+  "name": "Önce/Sonra Kaydırıcı — sürüklenebilir ayraçla iki görsel karşılaştırma",
+  "description": "Ardışık iki görsel bir çift olur (1–2, 3–4 …, en çok 8 çift): sahnede iki görsel üst üste, sürüklenebilir dikey ayraç (input[type=range] — fare, dokunuş, ok/Home/End/PageUp) önceki görseli clip-path ile kırpar; köşelerde iki görselin adı. Birden çok çiftte yanda küçük resim seçici (ikiye bölünmüş küçük resim + ad, ok tuşlarıyla gezilir). JS yokken iki görsel yan yana, tüm çiftler alt alta. Eski kuşak onceki-sonra JSON veri + işaretçi sürükleme ve araç çubuğu kullanır, onceki-sonra-yan iki görseli ayraçsız yan yana koyar; bu modül galeri verisinden çift kurar, ayraç yerel input[type=range] (klavye/ekran okuyucu yerleşik, RTL'de ayna) ve çiftler arasında bölünmüş küçük resimli seçici var. Galeri ailesinde karşılaştırma yapan ilk modül. Metinler dil sözlüğü, renkler desing + var(--mx-site-*), mantıksal CSS → RTL. Veri yoksa blok basılmaz.",
+  "version": "1.0.0",
+  "icon": "compare",
+  "category": "galeri",
+  "subCategory": "before-after-slider",
+  "tags": [
+    "galeri",
+    "before-after",
+    "compare",
+    "slider",
+    "range",
+    "rtl",
+    "fabrika"
+  ],
+  "desing": {
+    "max": "1240px",
+    "bosluk": "clamp(56px, 8vw, 104px)",
+    "yuvarlak": "18px",
+    "ust": "",
+    "baslik": "",
+    "metin": "",
+    "tumu": "",
+    "bg": "var(--mx-site-surface, #f6f7f9)",
+    "text": "var(--mx-site-text, #111318)",
+    "muted": "color-mix(in srgb, var(--mx-site-text, #111318) 70%, var(--mx-site-surface, #f6f7f9))",
+    "kartBg": "var(--mx-site-bg, #ffffff)",
+    "cizgi": "color-mix(in srgb, var(--mx-site-text, #111318) 12%, transparent)",
+    "accent": "var(--mx-site-primary, #2563eb)",
+    "accentInk": "color-mix(in srgb, var(--mx-site-primary, #2563eb) 70%, var(--mx-site-text, #111318))",
+    "accentText": "var(--mx-site-primary-contrast, #ffffff)",
+    "vurguBg": "var(--mx-site-primary, #2563eb)",
+    "vurguText": "var(--mx-site-primary-contrast, #ffffff)",
+    "ayracAd": "",
+    "baslangic": "50",
+    "bgcolor": "var(--mx-site-surface, #f6f7f9)",
+    "color": "var(--mx-site-text, #111318)"
+  },
+  "data": [],
+  "veri": {
+    "statik": true,
+    "dinamik": false,
+    "kaynak": "data",
+    "alanlar": {
+      "img": "görsel yolu (boşsa yer tutucu)",
+      "baslik": "dil sözlüğü (resim adı)",
+      "alt": "dil sözlüğü (boşsa başlık)",
+      "metin": "dil sözlüğü (kısa açıklama)",
+      "kat": "kategori kimliği (desing.cats id'si)",
+      "url": "iç/dış bağlantı",
+      "w": "görsel genişliği (px, oran için)",
+      "h": "görsel yüksekliği (px)",
+      "kucuk": "küçük görsel (varsa ızgarada bu)"
+    }
+  }
+}

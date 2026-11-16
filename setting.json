@@ -1,0 +1,54 @@
+{
+  "order": false,
+  "user": false,
+  "description": {
+    "tr": "Ayna Atölye: kesim, renk, bakım ve tırnak; önce/sonra galerisi, hizmet sepetiyle randevu ve KDV dahil kurgusal fiyatlar. Demo site; görseller temsilîdir.",
+    "en": "Ayna Atelier: cuts, colour, care and nails; a before/after gallery, booking with a service basket and fictional prices incl. VAT. Demo site; images are representative.",
+    "ar": "آينا أتيليه: قص ولون وعناية وأظافر؛ معرض قبل/بعد وحجز بسلة خدمات وأسعار افتراضية شاملة الضريبة. موقع تجريبي؛ الصور تمثيلية."
+  },
+  "keyword": {
+    "tr": "kuaför, saç kesimi, saç boyama, manikür, önce sonra, randevu",
+    "en": "hair salon, haircut, hair colouring, manicure, before and after, appointment",
+    "ar": "صالون شعر، قص الشعر، صبغ الشعر، مانيكير، قبل وبعد، موعد"
+  },
+  "category": "Kurumsal",
+  "name": "Ayna Atölye",
+  "domain": "kuafor-3.webyapar.com",
+  "langs": {
+    "tr": true,
+    "en": true,
+    "ar": true,
+    "de": false,
+    "ru": false,
+    "es": false,
+    "fr": false,
+    "it": false,
+    "ja": false,
+    "zh": false,
+    "ko": false,
+    "pt": false
+  },
+  "logo": "logo.png",
+  "multi": false,
+  "publishMode": "static",
+  "font": {
+    "body": "poppins",
+    "heading": "barlow-condensed",
+    "ar": {
+      "body": "ibm-plex-sans-arabic",
+      "heading": "noto-kufi-arabic"
+    }
+  },
+  "colorScheme": "auto",
+  "theme_color": "#7FB8A4",
+  "seo": {
+    "noindex": true
+  },
+  "cssTokens": {
+    "--mx-radius-sm": "2px",
+    "--mx-radius-md": "4px",
+    "--mx-radius-lg": "6px",
+    "--mx-radius-xl": "8px"
+  },
+  "icon": "icon.png"
+}

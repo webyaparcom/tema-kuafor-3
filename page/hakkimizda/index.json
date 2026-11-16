@@ -1,0 +1,47 @@
+{
+  "name": {
+    "tr": "Salon",
+    "en": "Salon",
+    "ar": "الصالون"
+  },
+  "status": "play",
+  "category": "",
+  "id": "hakkimizda",
+  "url": "",
+  "path": "hakkimizda",
+  "index": 0,
+  "icon": "info",
+  "desing": {
+    "header": [],
+    "body": [
+      "8isyx6",
+      "c0rm35"
+    ],
+    "footer": []
+  },
+  "pathnext": "",
+  "description": {
+    "tr": "Ekip ve konuk defteri (kurgusal).",
+    "en": "The team and the guest book (fictional).",
+    "ar": "الفريق ودفتر الضيوف (افتراضي)."
+  },
+  "spot": {
+    "tr": "",
+    "en": "",
+    "ar": ""
+  },
+  "desc": {},
+  "title": {
+    "tr": "Salon",
+    "en": "Salon",
+    "ar": "الصالون"
+  },
+  "keyword": {
+    "tr": "hakkımızda",
+    "en": "about",
+    "ar": "من نحن"
+  },
+  "text": {},
+  "update": "2026-11-16T16:06:47.056Z",
+  "date": "2026-10-30"
+}
