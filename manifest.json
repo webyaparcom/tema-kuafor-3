@@ -1,0 +1,29 @@
+{
+  "name": "Ayna Atölye",
+  "short_name": "Ayna Atölye",
+  "description": "Ayna Atölye: kesim, renk, bakım ve tırnak; önce/sonra galerisi, hizmet sepetiyle randevu ve KDV dahil kurgusal fiyatlar. Demo site; görseller temsilîdir.",
+  "start_url": "/tr/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#7FB8A4",
+  "lang": "tr",
+  "icons": [
+    {
+      "src": "/img/icon.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/img/icon.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/img/icon.png",
+      "sizes": "any",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}

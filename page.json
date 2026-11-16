@@ -1,0 +1,112 @@
+{
+  "data": [
+    {
+      "name": {
+        "tr": "Salon",
+        "en": "Salon",
+        "ar": "الصالون"
+      },
+      "status": "play",
+      "id": "hakkimizda",
+      "path": "hakkimizda",
+      "category": "",
+      "url": "",
+      "index": 0,
+      "icon": "info",
+      "desing": {
+        "header": [],
+        "body": [
+          "8isyx6",
+          "c0rm35"
+        ],
+        "footer": []
+      },
+      "pathnext": "",
+      "description": {
+        "tr": "Ekip ve konuk defteri (kurgusal).",
+        "en": "The team and the guest book (fictional).",
+        "ar": "الفريق ودفتر الضيوف (افتراضي)."
+      }
+    },
+    {
+      "id": "nlx4gxx0zh",
+      "name": {
+        "tr": "Galeri",
+        "en": "Gallery",
+        "ar": "المعرض"
+      },
+      "description": {
+        "tr": "Önce/sonra galerisi; görseller temsilîdir.",
+        "en": "Before/after gallery; images are representative.",
+        "ar": "معرض قبل/بعد؛ الصور تمثيلية."
+      },
+      "path": "referanslar",
+      "icon": "photo_library",
+      "category": "",
+      "status": "play",
+      "desing": {
+        "header": [],
+        "body": [
+          "lsv7r5",
+          "uv62yk"
+        ],
+        "footer": []
+      },
+      "index": 1
+    },
+    {
+      "id": "4ukyl7l2kq",
+      "name": {
+        "tr": "Randevu",
+        "en": "Book",
+        "ar": "الحجز"
+      },
+      "description": {
+        "tr": "Hizmet sepetiyle randevu talebi; fiyatlar KDV dahil (demo).",
+        "en": "Booking request with a service basket; prices incl. VAT (demo).",
+        "ar": "طلب حجز بسلة خدمات؛ الأسعار شاملة الضريبة (تجريبي)."
+      },
+      "path": "teklif-al",
+      "icon": "shopping_basket",
+      "category": "",
+      "status": "play",
+      "desing": {
+        "header": [],
+        "body": [
+          "vx78pb"
+        ],
+        "footer": []
+      },
+      "index": 2
+    },
+    {
+      "name": {
+        "tr": "İletişim",
+        "en": "Contact",
+        "ar": "اتصل بنا"
+      },
+      "status": "play",
+      "id": "iletisim",
+      "path": "iletisim",
+      "category": "",
+      "url": "",
+      "index": 3,
+      "icon": "call",
+      "desing": {
+        "header": [],
+        "body": [
+          "lmmfuy",
+          "k8mp01"
+        ],
+        "footer": []
+      },
+      "pathnext": "",
+      "description": {
+        "tr": "Adres, telefon ve çalışma saatleri.",
+        "en": "Address, phone and opening hours.",
+        "ar": "العنوان والهاتف وساعات العمل."
+      }
+    }
+  ],
+  "desc": []
+}
