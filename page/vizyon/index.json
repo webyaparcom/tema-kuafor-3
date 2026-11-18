@@ -3,17 +3,23 @@
   "name": {
     "tr": "Vizyon",
     "en": "Vision",
-    "ar": "الرؤية"
+    "ar": "الرؤية",
+    "de": "Vision",
+    "ru": "Видение"
   },
   "description": {
     "tr": "Vizyonumuz",
     "en": "Our vision",
-    "ar": "رؤيتنا"
+    "ar": "رؤيتنا",
+    "de": "Unsere Vision",
+    "ru": "Наше видение"
   },
   "keyword": {
     "tr": "Vizyon",
     "en": "vision, our vision, goals",
-    "ar": "الرؤية, رؤيتنا, الأهداف"
+    "ar": "الرؤية, رؤيتنا, الأهداف",
+    "de": "Vision",
+    "ru": "Видение"
   },
   "path": "vizyon",
   "icon": "visibility",
@@ -29,12 +35,16 @@
   "text": {
     "tr": "<h2>Vizyonumuz</h2>\n<p>Şehrin rıza ve hijyen konusunda en açık davranan mahalle atölyelerinden biri olmak.</p>",
     "en": "<h2>Our vision</h2>\n<p>To be one of the city’s most transparent neighbourhood ateliers on consent and hygiene.</p>",
-    "ar": "<h2>رؤيتنا</h2>\n<p>أن نكون من أكثر أتيليهات الأحياء شفافية في المدينة فيما يخص الموافقة والنظافة.</p>"
+    "ar": "<h2>رؤيتنا</h2>\n<p>أن نكون من أكثر أتيليهات الأحياء شفافية في المدينة فيما يخص الموافقة والنظافة.</p>",
+    "de": "<h2>Unsere Vision</h2>\n<p>Ein transparentes Stadtteil-Atelier in Bezug auf Einwilligung und Hygiene zu sein.</p>",
+    "ru": "<h2>Наше видение</h2>\n<p>Стать одной из самых прозрачных районных мастерских города в вопросах согласия и гигиены.</p>"
   },
   "title": {
     "tr": "Vizyon",
     "en": "Vision",
-    "ar": "الرؤية"
+    "ar": "الرؤية",
+    "de": "Vision",
+    "ru": "Видение"
   },
   "date": "2026-11-16T16:06:46.914Z",
   "update": "2026-11-16T16:06:47.076Z",

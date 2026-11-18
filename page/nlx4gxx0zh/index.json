@@ -3,17 +3,23 @@
   "name": {
     "tr": "Galeri",
     "en": "Gallery",
-    "ar": "المعرض"
+    "ar": "المعرض",
+    "de": "Galerie",
+    "ru": "Галерея"
   },
   "description": {
     "tr": "Önce/sonra galerisi; görseller temsilîdir.",
     "en": "Before/after gallery; images are representative.",
-    "ar": "معرض قبل/بعد؛ الصور تمثيلية."
+    "ar": "معرض قبل/بعد؛ الصور تمثيلية.",
+    "de": "Vorher-nachher-Galerie; die Bilder sind symbolisch.",
+    "ru": "Галерея «до и после»; изображения иллюстративные."
   },
   "keyword": {
     "tr": "önce sonra, galeri",
     "en": "before and after, gallery",
-    "ar": "قبل وبعد، معرض"
+    "ar": "قبل وبعد، معرض",
+    "de": "vorher nachher, Galerie",
+    "ru": "до после, галерея"
   },
   "path": "referanslar",
   "icon": "photo_library",
@@ -33,7 +39,9 @@
   "title": {
     "tr": "Galeri",
     "en": "Gallery",
-    "ar": "المعرض"
+    "ar": "المعرض",
+    "de": "Galerie",
+    "ru": "Галерея"
   },
   "date": "2026-11-16T16:06:47.058Z",
   "update": "2026-11-16T16:06:47.062Z"
