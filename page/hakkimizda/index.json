@@ -2,7 +2,9 @@
   "name": {
     "tr": "Salon",
     "en": "Salon",
-    "ar": "الصالون"
+    "ar": "الصالون",
+    "de": "Salon",
+    "ru": "Салон"
   },
   "status": "play",
   "category": "",
@@ -23,7 +25,9 @@
   "description": {
     "tr": "Ekip ve konuk defteri (kurgusal).",
     "en": "The team and the guest book (fictional).",
-    "ar": "الفريق ودفتر الضيوف (افتراضي)."
+    "ar": "الفريق ودفتر الضيوف (افتراضي).",
+    "de": "Team und Gästebuch (fiktiv).",
+    "ru": "Команда и книга отзывов гостей (условные)."
   },
   "spot": {
     "tr": "",
@@ -34,12 +38,16 @@
   "title": {
     "tr": "Salon",
     "en": "Salon",
-    "ar": "الصالون"
+    "ar": "الصالون",
+    "de": "Salon",
+    "ru": "Салон"
   },
   "keyword": {
     "tr": "hakkımızda",
     "en": "about",
-    "ar": "من نحن"
+    "ar": "من نحن",
+    "de": "Über uns",
+    "ru": "О нас"
   },
   "text": {},
   "update": "2026-11-16T16:06:47.056Z",

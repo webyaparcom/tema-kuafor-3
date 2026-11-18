@@ -4,12 +4,16 @@
   "description": {
     "tr": "Ayna Atölye: kesim, renk, bakım ve tırnak; önce/sonra galerisi, hizmet sepetiyle randevu ve KDV dahil kurgusal fiyatlar. Demo site; görseller temsilîdir.",
     "en": "Ayna Atelier: cuts, colour, care and nails; a before/after gallery, booking with a service basket and fictional prices incl. VAT. Demo site; images are representative.",
-    "ar": "آينا أتيليه: قص ولون وعناية وأظافر؛ معرض قبل/بعد وحجز بسلة خدمات وأسعار افتراضية شاملة الضريبة. موقع تجريبي؛ الصور تمثيلية."
+    "ar": "آينا أتيليه: قص ولون وعناية وأظافر؛ معرض قبل/بعد وحجز بسلة خدمات وأسعار افتراضية شاملة الضريبة. موقع تجريبي؛ الصور تمثيلية.",
+    "de": "Ayna Atölye: Schnitt, Farbe, Pflege und Nägel; Vorher/Nachher-Galerie, Termin mit Leistungskorb und fiktive Preise inkl. MwSt. Demo-Seite; die Bilder sind symbolisch.",
+    "ru": "Ayna Atölye: стрижка, цвет, уход и ногти; галерея «до/после», запись с корзиной услуг и вымышленные цены с НДС. Демо-сайт; изображения условные."
   },
   "keyword": {
     "tr": "kuaför, saç kesimi, saç boyama, manikür, önce sonra, randevu",
     "en": "hair salon, haircut, hair colouring, manicure, before and after, appointment",
-    "ar": "صالون شعر، قص الشعر، صبغ الشعر، مانيكير، قبل وبعد، موعد"
+    "ar": "صالون شعر، قص الشعر، صبغ الشعر، مانيكير، قبل وبعد، موعد",
+    "de": "Friseur, Haarschnitt, Haarfärbung, Maniküre, Vorher-Nachher, Termin",
+    "ru": "парикмахерская, стрижка, окрашивание, маникюр, до и после, запись"
   },
   "category": "Kurumsal",
   "name": "Ayna Atölye",
@@ -18,15 +22,27 @@
     "tr": true,
     "en": true,
     "ar": true,
-    "de": false,
-    "ru": false,
+    "de": true,
+    "ru": true,
     "es": false,
     "fr": false,
     "it": false,
     "ja": false,
     "zh": false,
     "ko": false,
-    "pt": false
+    "pt": false,
+    "fa": false,
+    "he": false,
+    "ur": false,
+    "nl": false,
+    "pl": false,
+    "uk": false,
+    "az": false,
+    "ka": false,
+    "el": false,
+    "bg": false,
+    "ro": false,
+    "hi": false
   },
   "logo": "logo.png",
   "multi": false,

@@ -3,17 +3,23 @@
   "name": {
     "tr": "Misyon",
     "en": "Mission",
-    "ar": "المهمة"
+    "ar": "المهمة",
+    "de": "Mission",
+    "ru": "Миссия"
   },
   "description": {
     "tr": "Misyonumuz",
     "en": "Our mission",
-    "ar": "مهمتنا"
+    "ar": "مهمتنا",
+    "de": "Unsere Mission",
+    "ru": "Наша миссия"
   },
   "keyword": {
     "tr": "Misyon",
     "en": "mission, our mission, corporate responsibility",
-    "ar": "الرسالة, رسالتنا, المسؤولية المؤسسية"
+    "ar": "الرسالة, رسالتنا, المسؤولية المؤسسية",
+    "de": "Mission",
+    "ru": "Миссия"
   },
   "path": "misyon",
   "icon": "flag",
@@ -29,12 +35,16 @@
   "text": {
     "tr": "<h2>Misyonumuz</h2>\n<p>Saç ve tırnak bakımını, sonucu önceden konuşulan sakin bir atölye deneyimine dönüştürmek.</p>",
     "en": "<h2>Our mission</h2>\n<p>To turn hair and nail care into a calm atelier experience where the result is discussed beforehand.</p>",
-    "ar": "<h2>مهمتنا</h2>\n<p>تحويل العناية بالشعر والأظافر إلى تجربة أتيليه هادئة يُناقَش فيها النتيجة مسبقًا.</p>"
+    "ar": "<h2>مهمتنا</h2>\n<p>تحويل العناية بالشعر والأظافر إلى تجربة أتيليه هادئة يُناقَش فيها النتيجة مسبقًا.</p>",
+    "de": "<h2>Unsere Mission</h2>\n<p>Haar- und Nagelpflege in ein ruhiges Atelier-Erlebnis verwandeln, bei dem das Ergebnis vorher besprochen wird.</p>",
+    "ru": "<h2>Наша миссия</h2>\n<p>Превратить уход за волосами и ногтями в спокойный опыт в мастерской, где результат обсуждается заранее.</p>"
   },
   "title": {
     "tr": "Misyon",
     "en": "Mission",
-    "ar": "المهمة"
+    "ar": "المهمة",
+    "de": "Mission",
+    "ru": "Миссия"
   },
   "date": "2026-11-16T16:06:46.914Z",
   "update": "2026-11-16T16:06:47.075Z",
